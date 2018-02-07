@@ -16,10 +16,8 @@
 title: Max Learns to Write Again!
 description: >- # this means to ignore newlines until "baseurl:"
     yep, max has to learn to write again
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+baseurl: ""
+url: "https://max-testing.github.io" 
 
 # Build settings
 markdown: kramdown
